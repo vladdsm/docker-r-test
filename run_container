@@ -4,7 +4,7 @@
 cd Documents/GitHub/docker-r-test
 
 # run this container while mapping the folders
-docker run --rm -v /Users/testmachine/Documents/GitHub/docker-r-test/01_data:/01_data -v /Users/testmachine/Documents/GitHub/docker-r-test/03_output:/03_output tmlts/docker-r-test
+docker run --rm -v /Users/vladdsm/Documents/GitHub/docker-r-test/01_data:/01_data -v /Users/vladdsm/Documents/GitHub/docker-r-test/03_output:/03_output tmlts/docker-r-test
 
 # exit the terminal
 exit
